@@ -1,1 +1,1 @@
-worker: node hannibot.js
+worker node hannibot.js
